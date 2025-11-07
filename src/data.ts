@@ -15,7 +15,7 @@ export const PersonalInfo: AboutMeData = {
 export const games: Game[] = [
   {
     name: "Slidle",
-    description: "A Words Sliding Puzzle Game",
+    description: "The game is a sliding puzzle with word mechanics that offers a unique, educational, and engaging experience, supported by complex background systems like word analysis and scoring, with its Leaderboard and Market still in the demo stage.",
     genres: ["Puzzle", "Words"],
     platforms: [Platform.Android],
     engine: GameEngine.Unity,
