@@ -1,6 +1,6 @@
 {
-  "homepage": "./",
-  "name": "portfolio-template",
+  "homepage": "https://ftstudio42.github.io/Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
