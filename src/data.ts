@@ -44,5 +44,20 @@ export const games: Game[] = [
       { source: "/images/games/Otis-Seeker-Of-The-Truth/char.png", type: MediaType.Image },
       { source: "/images/games/Otis-Seeker-Of-The-Truth/map2.png", type: MediaType.Image },
     ],
-  }
+  },
+  {
+    name: "Idle Defense: Save Your Light",
+    description: "It’s a tower defense game where players can spend long hours without getting bored. With its continuous progression system and dynamic enemies, it maintains a balanced sense of advancement.",
+    genres: ["Tower Defense", "Idle"],
+    platforms: [Platform.Android],
+    engine: GameEngine.Unity,
+    links: [
+      { source: LinkImageSource.Github, url: "https://github.com/halukozdemir/Idle-Defense-Save-Your-Lighte" },
+    ],
+    media: [
+      { source: "/images/games/Idle-Defense-Save-Your-Light/main.png", type: MediaType.Image },
+      { source: "/images/games/Idle-Defense-Save-Your-Light/game.png", type: MediaType.Image },
+      { source: "/images/games/Idle-Defense-Save-Your-Light/end.png", type: MediaType.Image },
+    ],
+  },
 ];
